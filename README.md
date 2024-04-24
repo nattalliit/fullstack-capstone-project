@@ -48,4 +48,7 @@ In the fourth assignment, you will write APIs and implement them into the backen
 The fifth assignment is the last development assignment. You will containerize the application for deployment. You will use the Docker platform and apply DevOps practices, such as GitHub actions and CI/CD, to deploy your app to multiple cloud platforms, including a Kubernetes cluster and IBM code engine.
 
 # Assignment 6
-In this last assignment for the course, you will submit your project for peer review. Your peers will evaluate your project based on the criteria in a rubric and assign points accordingly. The assignment also contains several readings for wrapping up the course.
+In this last assignment for the course, you will submit your project for peer review. Your peers will evaluate your project based on the criteria in a rubric and assign points accordingly. The assignment also contains several readings for wrapping up the course:
+<p align="center">
+  <img src="deployed_on_cloud.png" alt="deployed-on-cloud" width="460">
+</p>
